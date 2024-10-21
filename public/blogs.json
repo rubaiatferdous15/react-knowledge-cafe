@@ -1,0 +1,53 @@
+[
+    {
+      "id": "A001",
+      "cover": "https://picsum.photos/id/1/200/300",
+      "title": "The Future of AI in Everyday Life",
+      "author": "John Doe",
+      "authorImage": "https://picsum.photos/id/1011/50/50",
+      "postedDate": "October 10, 2024",
+      "readingTime": 5,
+      "hashtags": ["#AI", "#Future", "#Technology"]
+    },
+    {
+      "id": "A002",
+      "cover": "https://picsum.photos/id/2/200/300",
+      "title": "Exploring the Marvels of Space Travel",
+      "author": "Sarah Lee",
+      "authorImage": "https://picsum.photos/id/1025/50/50",
+      "postedDate": "September 28, 2024",
+      "readingTime": 7,
+      "hashtags": ["#Space", "#Astronomy", "#Travel"]
+    },
+    {
+      "id": "A003",
+      "cover": "https://picsum.photos/id/3/200/300",
+      "title": "Mastering React Hooks: A Beginner's Guide",
+      "author": "Alex Martin",
+      "authorImage": "https://picsum.photos/id/1005/50/50",
+      "postedDate": "October 12, 2024",
+      "readingTime": 8,
+      "hashtags": ["#React", "#WebDevelopment", "#JavaScript"]
+    },
+    {
+      "id": "A004",
+      "cover": "https://picsum.photos/id/4/200/300",
+      "title": "The Rise of Remote Work Culture",
+      "author": "Emily Johnson",
+      "authorImage": "https://picsum.photos/id/1027/50/50",
+      "postedDate": "October 5, 2024",
+      "readingTime": 6,
+      "hashtags": ["#RemoteWork", "#Career", "#WorkLife"]
+    },
+    {
+      "id": "A005",
+      "cover": "https://picsum.photos/id/5/200/300",
+      "title": "Healthy Eating Habits for a Productive Life",
+      "author": "Michael Brown",
+      "authorImage": "https://picsum.photos/id/1006/50/50",
+      "postedDate": "October 3, 2024",
+      "readingTime": 4,
+      "hashtags": ["#Health", "#Nutrition", "#Wellbeing"]
+    }
+  ]
+  
